@@ -1,3 +1,6 @@
+#Bu kod ManimCE v0.13.1 kullanılarak hazırlanmıştır. Diğer versiyonlarında hatalar oluşabilir.
+
+
 from manim import *
 import manimpango
 
